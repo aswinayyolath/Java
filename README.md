@@ -1,5 +1,7 @@
 # Java
 
+![Java](https://github.com/aswinayyolath/Java/assets/55191821/e95355c1-02ca-46ca-b9b7-633dad9d116f)
+
 ## Static Keyword
 
 ### Static variable
